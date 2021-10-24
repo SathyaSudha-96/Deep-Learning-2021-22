@@ -1,2 +1,2 @@
-# Deep-Leraning-2021-22
+# Deep-Learning-2021-22
 Introduction to Deep Learning 2021-22
